@@ -1,3 +1,4 @@
+![image](https://github.com/Carabelle/dragonspyre-academy/blob/main/git_banner.png)
 # Dragonspyre Academy
 > The first modernized wizard101 discord and trading server and hangout!
 
