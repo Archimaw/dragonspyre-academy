@@ -44,6 +44,7 @@ If you scam or do something negative eventually the bot or professors will catch
 ### What are server badges?
 Server badges can be achievements, you've met someone in game, generally they're just (by your name for fun)
 You can disable them by going into your settings (and they won't display on your name anymore)
+[Click here to check out the badge list and their meanings](https://github.com/Carabelle/dragonspyre-academy/blob/main/badges.md)
 
 
 ### Who're the creators of this discord?
