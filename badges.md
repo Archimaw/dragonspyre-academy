@@ -1,18 +1,17 @@
-
-# Current badges!
-- [🐲]: Dragon Rider, You made it into the staff team, this displays by your name!
-- [🐾⛓]: Slave, You're somebody's BDSM pet.
-- [🌟#]: Excellent Reputation, Your trading reputation is through the roof!
-- [🎄]:  Merry Christmas 2022, You've made it through the year!
-- [🔪]: You've meet `Suri/Alice` in game!
-- [❄️]: You're a chilly snowflake and unique! (given to unique stitches)
-- [🎨]: Amazing artist, you could've done commission for someone or gained something?
-- [👑]: Member of the month, given by being the most active and only lasts one month
-- [🍝]: You like spicy ramen noodles.
-- [🔞]: You're Naughty individual, nsfw 18+
-- [🖕🏻]: uh-oh, somebody got banned and muted or had too many problems!
-- [🛡️]: You're a valor & veteran in real life an deserve this!
-- [🤺]: you're a pvp god. (TBA)
-- [🪄]: you're magical? (TBA)
-- [🎩]: You helped develop some features and contributed toward the bot!
-- [🎉]: Happy Birthday!
+### Server Badges
+- [🐲] Your part of the server's staff team!
+- [🐾⛓] You're someone's bdsm pet!
+- [🌟#] Excellent reputation and trading reputation!
+- [🖕] You were banned and muted and kept annoying us with alts!
+- [🎩] Contributed toward the dragonspyre bot!
+- [🔞] Your a naughty individual!
+- [🍝] Your either a cutesy anime girl or your not?
+### Event Badges
+- [❄️] Your stitch is unique and should be considered cool!
+- [🎄] Christmas event!
+- [👑] Member Of The Month, Good reputation & active and friendly!
+- [🎉] Happy Birthday!
+- [🎨] Artist Contest Winner!
+- [🤺] Duelist Contest Winner!
+- [🔪] You have either meet or be around the developers of dragonspyre!
+- [🪄] TBA
