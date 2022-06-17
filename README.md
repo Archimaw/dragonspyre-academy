@@ -41,6 +41,11 @@ If you scam or do something negative eventually the bot or professors will catch
 - Optionals: (Pronouns, Descriptions, Birthdays, Timezones etc.)
 - Ban, Mute histories!
 
+### What are server badges?
+Server badges can be achievements, you've met someone in game, generally they're just (by your name for fun)
+You can disable them by going into your settings (and they won't display on your name anymore)
+
+
 ### Who're the creators of this discord?
 - TalonTheGreat **Grandmaster**
 - Cybelle/Suri **Grandmaster**
