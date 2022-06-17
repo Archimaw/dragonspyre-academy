@@ -15,6 +15,7 @@ It's meant to be helpful toward everyone, know that aside; we do have some featu
 - User profiling & stores and currency management?
 - Forums, Wikipedias, calculators and everything you need for the best experience!
 - Users can hold events of their own and giveaways specific by requirements and validation sequences by a bot!
+- Generally making everything simplified for everyone following KISS Principles and Minimalism
 
 (everything is subject to change due to time)
 Remember all these features are considered `experimental and being played with`
