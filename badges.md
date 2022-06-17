@@ -7,3 +7,4 @@
 - [🔪]: You've meet `Suri/Alice` in game!
 - [❄️]: You're a chilly snowflake and unique! (given to unique stitches)
 - [🎨]: Amazing artist, you could've done commission for someone or gained something?
+- [👑]: Member of the month, given by being the most active and only lasts one month
