@@ -15,3 +15,4 @@
 - [🤺]: you're a pvp god. (TBA)
 - [🪄]: you're magical? (TBA)
 - [🎩]: You helped develop some features and contributed toward the bot!
+- [🎉]: Happy Birthday!
