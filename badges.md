@@ -1,3 +1,5 @@
+> Note: Most of these badges, do not show in your name (only selective ones)
+
 ### Server Badges
 - [🐲] Your part of the server's staff team!
 - [🐾⛓] You're someone's bdsm pet!
