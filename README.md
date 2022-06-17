@@ -42,9 +42,9 @@ If you scam or do something negative eventually the bot or professors will catch
 - Ban, Mute histories!
 
 ### Who're the creators of this discord?
-- TalonTheGreat **Admin & Contributor**
-- Cybelle/Suri **Admin & Developer**
-- Kathy **Lead Moderator & Enforcer**
+- TalonTheGreat **Grandmaster**
+- Cybelle/Suri **Grandmaster**
+- Kathy **Professor**
 
 (everything is subject to change due to time)
 Remember all these features are considered `experimental and being played with`
