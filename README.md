@@ -29,5 +29,14 @@ you can take advantage of and advancements of.
 ## Partnerships
 This hasn't been planned is in a state of being (developed)
 
+## User Rating and/or Reputation
+This is from your trading experiences and comments on your profile, someone can literally direct message the bot or use our server!
+If you scam or do something negative eventually the bot or professors will catch up on this and (Unfortunate things will happen)
+
+## What data, we keep (on bot release)
+- Your wizard's schools, badges!
+- Optionals: (Pronouns, Descriptions, Birthdays, Timezones etc.)
+- Ban, Mute histories!
+
 (everything is subject to change due to time)
 Remember all these features are considered `experimental and being played with`
