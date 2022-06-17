@@ -1,7 +1,6 @@
 # Dragonspyre Academy
 > The first modernized wizard101 discord and trading server and hangout!
 
-
 ### What's this server about?
 We're wanting to bring everyone into one server and have a big economy for everyone to use in game!
 This means everything will be handled automatically with bots, APIs, many other various projects.
@@ -40,6 +39,11 @@ If you scam or do something negative eventually the bot or professors will catch
 - Your wizard's schools, badges!
 - Optionals: (Pronouns, Descriptions, Birthdays, Timezones etc.)
 - Ban, Mute histories!
+
+### Who're the creators of this discord?
+- TalonTheGreat **Admin & Contributor**
+- Cybelle/Suri **Admin & Developer**
+- Kathy **Lead Moderator & Enforcer**
 
 (everything is subject to change due to time)
 Remember all these features are considered `experimental and being played with`
