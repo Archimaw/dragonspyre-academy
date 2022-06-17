@@ -51,7 +51,7 @@ You can disable them by going into your settings (and they won't display on your
 - TalonTheGreat **Grandmaster**
 - Cybelle/Suri **Grandmaster**
 
-### Notable Staff Team
+### Honorable Staff Team
 - Kathy **Professor**
 
 (everything is subject to change due to time)
