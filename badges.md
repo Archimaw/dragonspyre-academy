@@ -6,6 +6,7 @@
 - [🎩] Contributed toward the dragonspyre bot!
 - [🔞] Your a naughty individual!
 - [🍝] Your either a cutesy anime girl or your not?
+- [💞] You got a really tight community bond!
 ### Event Badges
 - [❄️] Your stitch is unique and should be considered cool!
 - [🎄] Christmas event!
