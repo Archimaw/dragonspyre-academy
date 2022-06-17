@@ -9,3 +9,5 @@
 - [🎨]: Amazing artist, you could've done commission for someone or gained something?
 - [👑]: Member of the month, given by being the most active and only lasts one month
 - [🍝]: You like spicy ramen noodles.
+- [🔞]: You're Naughty individual, nsfw 18+
+- [🖕🏻]: uh-oh, somebody got banned and muted or had too many problems!
