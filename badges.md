@@ -12,5 +12,6 @@
 - [🔞]: You're Naughty individual, nsfw 18+
 - [🖕🏻]: uh-oh, somebody got banned and muted or had too many problems!
 - [🛡️]: You're a valor & veteran in real life an deserve this!
-- [🤺]: you're a pvp god.
-- [🪄]: !!!
+- [🤺]: you're a pvp god. (TBA)
+- [🪄]: you're magical? (TBA)
+- [🎩]: You helped develop some features and contributed toward the bot!
