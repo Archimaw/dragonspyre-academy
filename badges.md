@@ -9,6 +9,7 @@
 - [🔞] Your a naughty individual!
 - [🍝] Your either a cutesy anime girl or your not?
 - [💞] You got a really tight community bond!
+- [🔮] You've boosted the server at least (once or twice)
 ### Event Badges
 - [❄️] Your stitch is unique and should be considered cool!
 - [🎄] Christmas event!
