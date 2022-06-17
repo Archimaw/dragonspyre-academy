@@ -50,6 +50,8 @@ You can disable them by going into your settings (and they won't display on your
 ### Who're the creators of this discord?
 - TalonTheGreat **Grandmaster**
 - Cybelle/Suri **Grandmaster**
+
+### Notable Staff Team
 - Kathy **Professor**
 
 (everything is subject to change due to time)
