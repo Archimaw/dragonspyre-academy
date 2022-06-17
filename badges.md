@@ -5,3 +5,5 @@
 - [🌟#]: Excellent Reputation, Your trading reputation is through the roof!
 - [🎄]:  Merry Christmas 2022, You've made it through the year!
 - [🔪]: You've meet `Suri/Alice` in game!
+- [❄️]: You're a chilly snowflake and unique! (given to unique stitches)
+- [🎨]: Amazing artist, you could've done commission for someone or gained something?
