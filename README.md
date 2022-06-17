@@ -16,6 +16,9 @@ It's meant to be helpful toward everyone, know that aside; we do have some featu
 - Forums, Wikipedias, calculators and everything you need for the best experience!
 - Users can hold events of their own and giveaways specific by requirements and validation sequences by a bot!
 - Generally making everything simplified for everyone following KISS Principles and Minimalism
+- Users can also commiciate with using temporary channels and containers! (Where the user, who created the channel; becomes the host; 
+  Once you leave the channel, it'll delete itself!
+)
 
 ### How can I contribute?
 I'm glad, you asked yourself this question, you can invite members and receive various rewards based (on the reward bot and boosting)
