@@ -46,6 +46,13 @@ Server badges can be achievements, you've met someone in game, generally they're
 You can disable them by going into your settings (and they won't display on your name anymore)
 [Click here to check out the badge list and their meanings](https://github.com/Carabelle/dragonspyre-academy/blob/main/badges.md)
 
+### Blacklisted Users
+If you're blacklisted or sanctioned by another server within our environment or ecosystem; you're not allowed to come back nor get pardoned!
+This means you've done something unpleasant and undesirable to a bunch of communities or caused mayhem or illegal content!
+
+### How to appeal
+You can open a ticket with the bot, when you joined the server; you're still able to apply even as a blacklisted member; but can't see anyone else-
+besides, who's in the ticket and will be given a server to appeal on.
 
 ### Who're the creators of this discord?
 - TalonTheGreat **Grandmaster**
