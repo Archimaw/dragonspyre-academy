@@ -2,6 +2,11 @@
 # Dragonspyre Academy
 > The first modernized wizard101 discord and trading server and hangout!
 
+## Alert!
+There's going to be a minor delay on everything due to some life decisions and problems!
+I won't be able to be on as often, because I'm taking care of a sick family member!
+I hope everyone understands!
+
 ### What's this server about?
 We're wanting to bring everyone into one server and have a big economy for everyone to use in game!
 This means everything will be handled automatically with bots, APIs, many other various projects.
