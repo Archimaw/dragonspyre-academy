@@ -47,34 +47,33 @@ If you scam or do something negative eventually the bot or professors will catch
 - Ban, Mute histories!
 
 ### What are server badges?
+<details><summary><h4>List Of Badges</h4></summary>
+  <h4>Achievable</h4>
+  <ul>[🐲] Your part of the server's staff team!</ul>
+  <ul>[🐾⛓] You're someone's bdsm pet!</ul>
+  <ul>[🌟#] Excellent reputation and trading reputation!</ul>
+  <ul>[🎩] Contributed toward the dragonspyre bot!</ul>
+  <ul>[🔞] Your a naughty individual!</ul>
+  <ul>[🍝] Your either a cutesy anime girl or your not?</ul>
+  <ul>[💞] You got a really tight community bond!</ul>
+  <ul>[🔮] You've boosted the server at least (once or twice)</ul>
+  <ul>[🌟] You're favorited and trusted!</ul>
+  <h4>Events Only</h4>
+  <ul>[❄️] Your stitch is unique and should be considered cool!</ul>
+  <ul>[🎄] Christmas event!</ul>
+  <ul>[👑] Member Of The Month, Good reputation & active and friendly!</ul>
+  <ul>[🎉] Happy Birthday!</ul>
+  <ul>[🎨] Artist Contest Winner</ul>
+  <ul>[🤺] Duelist Contest Winner!</ul>
+  <ul>[🔪] You have either meet or be around the developers of dragonspyre!</ul>
+  <ul>[🪄] TBA</ul>
+</details>
 Server badges can be achievements, you've met someone in game, generally they're just (by your name for fun)
 You can disable them by going into your settings (and they won't display on your name anymore)
-### List Of Badges
-#### Achievable
-- [🐲] Your part of the server's staff team!
-- [🐾⛓] You're someone's bdsm pet!
-- [🌟#] Excellent reputation and trading reputation!
-- [🖕] You were banned and muted and kept annoying us with alts!
-- [🎩] Contributed toward the dragonspyre bot!
-- [🔞] Your a naughty individual!
-- [🍝] Your either a cutesy anime girl or your not?
-- [💞] You got a really tight community bond!
-- [🔮] You've boosted the server at least (once or twice)
-- [🌟] You're favorited and trusted!
 
-#### Events Only
-- [❄️] Your stitch is unique and should be considered cool!
-- [🎄] Christmas event!
-- [👑] Member Of The Month, Good reputation & active and friendly!
-- [🎉] Happy Birthday!
-- [🎨] Artist Contest Winner!
-- [🤺] Duelist Contest Winner!
-- [🔪] You have either meet or be around the developers of dragonspyre!
-- [🪄] TBA
-
-### Blacklisted Users
-If you're blacklisted or sanctioned by another server within our environment or ecosystem; you're not allowed to come back nor get pardoned!
-This means you've done something unpleasant and undesirable to a bunch of communities or caused mayhem or illegal content!
+### Blocked Users
+If you're blocked from the server or sanctioned so many times or reported; you'll be added into this list.
+You'll never be allowed to use the trade functions ever again or anything related to "trading or currency."
 
 ### How to appeal
 You can open a ticket with the bot, when you joined the server; you're still able to apply even as a blacklisted member; but can't see anyone else-
