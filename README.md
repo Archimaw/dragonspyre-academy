@@ -49,7 +49,28 @@ If you scam or do something negative eventually the bot or professors will catch
 ### What are server badges?
 Server badges can be achievements, you've met someone in game, generally they're just (by your name for fun)
 You can disable them by going into your settings (and they won't display on your name anymore)
-[Click here to check out the badge list and their meanings](https://github.com/Carabelle/dragonspyre-academy/blob/main/badges.md)
+### List Of Badges
+#### Achievable
+- [🐲] Your part of the server's staff team!
+- [🐾⛓] You're someone's bdsm pet!
+- [🌟#] Excellent reputation and trading reputation!
+- [🖕] You were banned and muted and kept annoying us with alts!
+- [🎩] Contributed toward the dragonspyre bot!
+- [🔞] Your a naughty individual!
+- [🍝] Your either a cutesy anime girl or your not?
+- [💞] You got a really tight community bond!
+- [🔮] You've boosted the server at least (once or twice)
+- [🌟] You're favorited and trusted!
+
+#### Events Only
+- [❄️] Your stitch is unique and should be considered cool!
+- [🎄] Christmas event!
+- [👑] Member Of The Month, Good reputation & active and friendly!
+- [🎉] Happy Birthday!
+- [🎨] Artist Contest Winner!
+- [🤺] Duelist Contest Winner!
+- [🔪] You have either meet or be around the developers of dragonspyre!
+- [🪄] TBA
 
 ### Blacklisted Users
 If you're blacklisted or sanctioned by another server within our environment or ecosystem; you're not allowed to come back nor get pardoned!
