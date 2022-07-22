@@ -1,6 +1,6 @@
-![image](https://github.com/Carabelle/dragonspyre-academy/blob/main/git_banner.png)
-# Dragonspyre Academy
-> The first modernized wizard101 discord and trading server and hangout!
+![](git_banner.png)
+## Dragonspyre Academy
+Making a collaborative discord for wizard101 and trading while being modern!
 
 ### What's this server about?
 We're wanting to bring everyone into one server and have a big economy for everyone to use in game!
