@@ -79,6 +79,14 @@ You'll never be allowed to use the trade functions ever again or anything relate
 You can open a ticket with the bot, when you joined the server; you're still able to apply even as a blacklisted member; but can't see anyone else-
 besides, who's in the ticket and will be given a server to appeal on.
 
+### Roles
+#### Grandmasters (Administrators)
+Admins & Developers of the server and shouldn't be tampered with.
+#### Professors (Moderators)
+Moderators & Contributors of the server, they help maintain & keep everything tidy!
+#### VIP
+Donator or patron, who wants to send money and contribute toward getting premium features!
+
 ### Who're the creators of this discord?
 - TalonTheGreat **Grandmaster**
 - Archiphon/Suri **Grandmaster**
