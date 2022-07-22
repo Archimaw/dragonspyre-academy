@@ -61,7 +61,7 @@ besides, who's in the ticket and will be given a server to appeal on.
 
 ### Who're the creators of this discord?
 - TalonTheGreat **Grandmaster**
-- Cybelle/Suri **Grandmaster**
+- Archiphon/Suri **Grandmaster**
 
 ### Honorable Staff Team
 - Kathy **Professor**
